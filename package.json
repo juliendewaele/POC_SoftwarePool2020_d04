@@ -1,0 +1,23 @@
+{
+  "name": "d04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "^5.21.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreamlox/POC_SoftwarePool2020_d04.git"
+  },
+  "author": "julien.de-waele@epitech.eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dreamlox/POC_SoftwarePool2020_d04/issues"
+  },
+  "homepage": "https://github.com/Dreamlox/POC_SoftwarePool2020_d04#readme"
+}
